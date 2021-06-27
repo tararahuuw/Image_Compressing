@@ -17,6 +17,7 @@ Algoritma SVD merupakan salah satu metode dalam aljabar linier untuk memfaktoris
 * Python 3
 
 ## Link Video
+https://drive.google.com/file/d/1HQI7cvz6mjRqYOe8MrS7Y7y_wT4dB7S3/view?usp=sharing
 
 ## Code Examples
 Show examples of usage:
